@@ -1,0 +1,42 @@
+[0.000000] (-) TimerEvent: {}
+[0.000345] (autoturtle) JobQueued: {'identifier': 'autoturtle', 'dependencies': OrderedDict()}
+[0.000404] (autoturtle) JobStarted: {'identifier': 'autoturtle'}
+[0.098791] (-) TimerEvent: {}
+[0.199376] (-) TimerEvent: {}
+[0.299773] (-) TimerEvent: {}
+[0.400089] (-) TimerEvent: {}
+[0.500958] (-) TimerEvent: {}
+[0.601421] (-) TimerEvent: {}
+[0.701786] (-) TimerEvent: {}
+[0.802110] (-) TimerEvent: {}
+[0.902451] (-) TimerEvent: {}
+[1.002810] (-) TimerEvent: {}
+[1.103248] (autoturtle) Command: {'cmd': ['/usr/bin/python3.6', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/autoturtle', 'build', '--build-base', '/users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/build', 'install', '--record', '/users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/users/ugrad/shivamhs/Shah_Shivam_ws/src/autoturtle', 'env': {'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.m4a=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.oga=01;36:*.opus=01;36:*.spx=01;36:*.xspf=01;36:', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib64:/opt/ros/humble/lib', 'HOSTTYPE': 'x86_64-linux', 'SSH_CONNECTION': '174.67.242.55 49946 128.200.85.22 22', 'AMENT_PREFIX_PATH': '/users/ugrad/shivamhs/Shah_shivam_ws/install/my_package:/opt/ros/humble', 'LIBGL_ALWAYS_INDIRECT': '1', 'LANG': 'en_US.UTF-8', 'DISPLAY': 'localhost:19.0', 'HOSTNAME': 'bondi.eecs.uci.edu', 'OLDPWD': '/users/ugrad/shivamhs/Shah_Shivam_ws/src/autoturtle/autoturtle', 'VENDOR': 'unknown', 'MACHTYPE': 'x86_64', 'MODULES_USE_COMPAT_VERSION': '0', 'S_COLORS': 'auto', 'OSTYPE': 'linux', 'XDG_SESSION_ID': '4487', 'MODULES_CMD': '/usr/share/Modules/libexec/modulecmd.tcl', 'USER': 'shivamhs', 'SELINUX_ROLE_REQUESTED': '', 'GROUP': 'ugrad', 'PWD': '/users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle', 'COLCON': '1', 'HOME': '/users/ugrad/shivamhs', 'HOST': 'bondi.eecs.uci.edu', 'SSH_CLIENT': '174.67.242.55 49946 22', 'SELINUX_LEVEL_REQUESTED': '', 'KRB5CCNAME': 'KCM:', 'COLCON_PREFIX_PATH': '/users/ugrad/shivamhs/Shah_shivam_ws/install', 'LOADEDMODULES': '', 'ROS_VERSION': '2', 'SSH_TTY': '/dev/pts/76', 'MAIL': '/var/spool/mail/shivamhs', 'ROS_LOCALHOST_ONLY': '0', 'REMOTEHOST': '174.67.242.55', 'SHELL': '/bin/tcsh', 'TERM': 'xterm', 'ROS_PYTHON_VERSION': '3', 'SELINUX_USE_CURRENT_RANGE': '', 'SHLVL': '3', 'PYTHONPATH': '/users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/prefix_override:/users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/python3.6/site-packages:/users/ugrad/shivamhs/Shah_shivam_ws/install/my_package/lib/python3.6/site-packages:/opt/ros/humble/lib/python3.6/site-packages', 'MANPATH': ':', 'MODULEPATH': '/etc/scl/modulefiles:/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles', 'LOGNAME': 'shivamhs', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/23911/bus', 'XDG_RUNTIME_DIR': '/run/user/23911', 'MODULEPATH_modshare': '/usr/share/Modules/modulefiles:2:/etc/modulefiles:2:/usr/share/modulefiles:2', 'PATH': '/opt/ros/humble/bin:/usr/share/Modules/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin', 'DEBUGINFOD_URLS': 'https://debuginfod.centos.org/', 'MODULESHOME': '/usr/share/Modules', 'ROS_DISTRO': 'humble', 'LESSOPEN': '||/usr/bin/lesspipe.sh %s', '_': '/usr/bin/env'}, 'shell': False}
+[1.149142] (-) TimerEvent: {}
+[1.249500] (-) TimerEvent: {}
+[1.349802] (-) TimerEvent: {}
+[1.450140] (autoturtle) StdoutLine: {'line': b'running egg_info\n'}
+[1.450376] (-) TimerEvent: {}
+[1.450554] (autoturtle) StdoutLine: {'line': b'writing ../../build/autoturtle/autoturtle.egg-info/PKG-INFO\n'}
+[1.450666] (autoturtle) StdoutLine: {'line': b'writing dependency_links to ../../build/autoturtle/autoturtle.egg-info/dependency_links.txt\n'}
+[1.450801] (autoturtle) StdoutLine: {'line': b'writing entry points to ../../build/autoturtle/autoturtle.egg-info/entry_points.txt\n'}
+[1.451993] (autoturtle) StdoutLine: {'line': b'writing requirements to ../../build/autoturtle/autoturtle.egg-info/requires.txt\n'}
+[1.455393] (autoturtle) StdoutLine: {'line': b'writing top-level names to ../../build/autoturtle/autoturtle.egg-info/top_level.txt\n'}
+[1.519119] (autoturtle) StdoutLine: {'line': b"reading manifest file '../../build/autoturtle/autoturtle.egg-info/SOURCES.txt'\n"}
+[1.519271] (autoturtle) StdoutLine: {'line': b"writing manifest file '../../build/autoturtle/autoturtle.egg-info/SOURCES.txt'\n"}
+[1.519364] (autoturtle) StdoutLine: {'line': b'running build\n'}
+[1.519449] (autoturtle) StdoutLine: {'line': b'running build_py\n'}
+[1.519530] (autoturtle) StdoutLine: {'line': b'running install\n'}
+[1.519611] (autoturtle) StdoutLine: {'line': b'running install_lib\n'}
+[1.519691] (autoturtle) StdoutLine: {'line': b'running install_data\n'}
+[1.519816] (autoturtle) StdoutLine: {'line': b'running install_egg_info\n'}
+[1.519909] (autoturtle) StdoutLine: {'line': b"removing '/users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/python3.6/site-packages/autoturtle-0.0.0-py3.6.egg-info' (and everything under it)\n"}
+[1.527371] (autoturtle) StdoutLine: {'line': b'Copying ../../build/autoturtle/autoturtle.egg-info to /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/python3.6/site-packages/autoturtle-0.0.0-py3.6.egg-info\n'}
+[1.550507] (-) TimerEvent: {}
+[1.566089] (autoturtle) StdoutLine: {'line': b'running install_scripts\n'}
+[1.597896] (autoturtle) StdoutLine: {'line': b'Installing my_teleop_node script to /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/autoturtle\n'}
+[1.598236] (autoturtle) StdoutLine: {'line': b"writing list of installed files to '/users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/install.log'\n"}
+[1.629882] (autoturtle) CommandEnded: {'returncode': 0}
+[1.650634] (-) TimerEvent: {}
+[1.682620] (autoturtle) JobEnded: {'identifier': 'autoturtle', 'rc': 0}
+[1.694083] (-) EventReactorShutdown: {}

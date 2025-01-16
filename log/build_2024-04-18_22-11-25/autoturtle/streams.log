@@ -1,0 +1,37 @@
+[1.212s] Invoking command in '/users/ugrad/shivamhs/Shah_Shivam_ws/src/autoturtle': PYTHONPATH=/users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/prefix_override:/users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/python3.6/site-packages:${PYTHONPATH} SHLVL=3 _=/usr/bin/env /usr/bin/python3.6 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autoturtle build --build-base /users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/build install --record /users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/install.log --single-version-externally-managed install_data
+[1.517s] running egg_info
+[1.519s] creating ../../build/autoturtle/autoturtle.egg-info
+[1.520s] writing ../../build/autoturtle/autoturtle.egg-info/PKG-INFO
+[1.527s] writing dependency_links to ../../build/autoturtle/autoturtle.egg-info/dependency_links.txt
+[1.529s] writing entry points to ../../build/autoturtle/autoturtle.egg-info/entry_points.txt
+[1.532s] writing requirements to ../../build/autoturtle/autoturtle.egg-info/requires.txt
+[1.533s] writing top-level names to ../../build/autoturtle/autoturtle.egg-info/top_level.txt
+[1.537s] writing manifest file '../../build/autoturtle/autoturtle.egg-info/SOURCES.txt'
+[1.568s] reading manifest file '../../build/autoturtle/autoturtle.egg-info/SOURCES.txt'
+[1.569s] writing manifest file '../../build/autoturtle/autoturtle.egg-info/SOURCES.txt'
+[1.569s] running build
+[1.569s] running build_py
+[1.569s] creating /users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/build
+[1.569s] creating /users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/build/lib
+[1.577s] creating /users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/build/lib/autoturtle
+[1.580s] copying autoturtle/__init__.py -> /users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/build/lib/autoturtle
+[1.583s] copying autoturtle/my_teleop_node.py -> /users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/build/lib/autoturtle
+[1.587s] running install
+[1.587s] running install_lib
+[1.590s] creating /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/python3.6/site-packages/autoturtle
+[1.590s] copying /users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/build/lib/autoturtle/__init__.py -> /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/python3.6/site-packages/autoturtle
+[1.594s] copying /users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/build/lib/autoturtle/my_teleop_node.py -> /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/python3.6/site-packages/autoturtle
+[1.601s] byte-compiling /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/python3.6/site-packages/autoturtle/__init__.py to __init__.cpython-36.pyc
+[1.609s] byte-compiling /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/python3.6/site-packages/autoturtle/my_teleop_node.py to my_teleop_node.cpython-36.pyc
+[1.612s] running install_data
+[1.612s] creating /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/share/ament_index
+[1.622s] creating /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/share/ament_index/resource_index
+[1.622s] creating /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/share/ament_index/resource_index/packages
+[1.653s] copying resource/autoturtle -> /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/share/ament_index/resource_index/packages
+[1.654s] copying package.xml -> /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/share/autoturtle
+[1.655s] running install_egg_info
+[1.658s] Copying ../../build/autoturtle/autoturtle.egg-info to /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/python3.6/site-packages/autoturtle-0.0.0-py3.6.egg-info
+[1.714s] running install_scripts
+[1.730s] Installing my_teleop_node script to /users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/autoturtle
+[1.730s] writing list of installed files to '/users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/install.log'
+[1.762s] Invoked command in '/users/ugrad/shivamhs/Shah_Shivam_ws/src/autoturtle' returned '0': PYTHONPATH=/users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/prefix_override:/users/ugrad/shivamhs/Shah_Shivam_ws/install/autoturtle/lib/python3.6/site-packages:${PYTHONPATH} SHLVL=3 _=/usr/bin/env /usr/bin/python3.6 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autoturtle build --build-base /users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/build install --record /users/ugrad/shivamhs/Shah_Shivam_ws/build/autoturtle/install.log --single-version-externally-managed install_data
